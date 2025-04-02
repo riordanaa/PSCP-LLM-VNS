@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# PSCP Variable Neighborhood Search (VNS)
 
 ## Project Structure
@@ -15,3 +16,6 @@
 
 ## Usage
 See PSCPSolverMain.java for usage details.
+=======
+# PSCP-LLM-VNS
+>>>>>>> d846af6ed83386e92f436acfd4e903255353ecc4
